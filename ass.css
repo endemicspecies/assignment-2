@@ -1,0 +1,152 @@
+/* *{
+    margin: 0%;
+    padding:0%;
+} */
+body{
+    background-color: rgb(224,224,224);
+}
+.navigation{
+    margin: 30px;
+    background-color: rgb(0, 0, 0);
+     height: 40px;
+     
+}
+.navigation ul li{
+    display: inline-block;
+    padding: 15px;
+}
+.navigation ul li a{
+    color: azure;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* .navigation li:hover{
+    background-color: rgb(23, 30, 132);
+} */
+.navigation a:hover{
+    color:rgb(164, 42, 42)
+}
+.film1{
+    height: 300px;
+    width: 900px;
+    
+    
+    margin: auto;
+}
+.film1 p{
+    position:relative;
+    left:300px;
+    bottom: 260px;
+    white-space: break-spaces;
+    overflow-y: scroll;
+    text-overflow: ellipsis;
+    height: 150px;
+    width: 600px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.film1 img{
+    display: inline-block;
+    height: 280px;
+    width: 250px;
+    border: 2px soid black;
+    border-radius: 5px;
+    /* margin-top: auto; 
+    margin-bottom: auto; */
+    position: relative;
+    top: 8px;
+    left:10px;
+}
+.film1 h2{
+    font-size:30px;
+    color: purple;
+    font-weight: 700;
+    font-family: 'Georgia', Times New Roman, Times, serif;
+    position: relative;
+    bottom:285px;
+    text-align: center;
+}
+.film2{
+    height: 300px;
+    width: 900px;
+    
+    
+    margin: auto;
+}
+.film2 p{
+    position:relative;
+    left:300px;
+    bottom: 260px;
+    white-space: break-spaces;
+    overflow-y: scroll;
+    text-overflow: ellipsis;
+    height: 150px;
+    width: 600px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.film2 img{
+    display: inline-block;
+    height: 280px;
+    width: 250px;
+    border: 2px soid black;
+    border-radius: 5px;
+    /* margin-top: auto; 
+    margin-bottom: auto; */
+    position: relative;
+    top: 8px;
+    left:10px;
+}
+.film2 h2{
+    font-size:30px;
+    color: red;
+    font-weight: 700;
+    font-family: 'Georgia', Times New Roman, Times, serif;
+    position: relative;
+    bottom:285px;
+    text-align: center;
+}
+
+.film3{
+    height: 300px;
+    width: 900px;
+    
+    
+    margin: auto;
+}
+.film3 p{
+    position:relative;
+    left:300px;
+    bottom: 260px;
+    white-space: break-spaces;
+    overflow-y: scroll;
+    text-overflow: ellipsis;
+    height: 150px;
+    width: 600px;
+    font-size: 16px;
+    font-family: 'Georgia', Times New Roman, Times, serif;
+}
+.film3 img{
+    display: inline-block;
+    height: 280px;
+    width: 250px;
+    border: 2px soid black;
+    border-radius: 5px;
+    /* margin-top: auto; 
+    margin-bottom: auto; */
+    position: relative;
+    top: 8px;
+    left:10px;
+}
+.film3 h2{
+    font-size:30px;
+    color: green;
+    font-weight: 700;
+    font-family: 'Georgia', Times New Roman, Times, serif;
+    position: relative;
+    bottom:285px;
+    text-align: center;
+    left:100px;
+}     
